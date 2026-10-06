@@ -24,13 +24,21 @@
 <br/>
 
 
-#### 2차시 (2026.10.06)
-- [TBA](./2/README.md)
+#### 2차시 (2026.10.07)
+ 
+- [2차시 실습 설명](./2/README.md)
 - 실습 파일
-
   | Link                                                                                  | Desc          |
   | ------------------------------------------------------------------------------------- | ------------- |
-  | TBA | TBA |
+  | [2.1 Relational Algebra (FreeSQL)](<./2/2.1%20relational%20algebra%20(FreeSQL).md>) | 수업 보충자료 |
+  | [2.1 Relational Algebra (FreeSQL) with results](<./2/2.1%20relational%20algebra%20(FreeSQL)_with_results.md>) | 수업 보충자료 |
+  | [2.2 Basic SQL (FreeSQL)](<./2/2.2%20basic%20sql%20(FreeSQL).md>) | 수업 보충자료 |
+  | [2.2 Basic SQL (FreeSQL) with results](<./2/2.2%20basic%20sql%20(FreeSQL)_with_results.md>) | 수업 보충자료 |
+  | [3.1 (Advanced SQL) Cube (FreeSQL)](<./2/3.1%20(Advanced%20SQL)%20Cube%20(FreeSQL).md>) | 수업 보충자료 |
+  | [3.1 (Advanced SQL) Cube (FreeSQL) with results](<./2/3.1%20(Advanced%20SQL)%20Cube%20(FreeSQL)_with_results.md>) | 수업 보충자료 |
+  | [3.3 (Advanced SQL) With Recursive Subquery Factoring in Oracle (FreeSQL)](<./2/3.3%20(Advanced%20SQL)%20With%20Recursive%20Subquery%20Factoring%20in%20Oracle%20(FreeSQL).md>) | 수업 보충자료 |
+  | [3.3 (Advanced SQL) With Recursive Subquery Factoring in Oracle (FreeSQL) with results](<./2/3.3%20(Advanced%20SQL)%20With%20Recursive%20Subquery%20Factoring%20in%20Oracle%20(FreeSQL)_with_results.md>) | 수업 보충자료 |
+<br/>
 
 
 
